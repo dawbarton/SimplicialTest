@@ -1,0 +1,4 @@
+[fifo] simplices 107048, F evaluations 36792, face solves 180632, polygon sizes {3: 73584, 4: 33464}, max frontier 326, 10.0s
+[lifo] simplices 107048, F evaluations 36792, face solves 180632, polygon sizes {3: 73584, 4: 33464}, max frontier 41739, 11.8s
+mesh: 70256 vertices, 107048 polygons, 140512 triangles, degenerate 0, boundary edges 0, components 1, Euler characteristic 0
+vertex distance to torus: max 1.88e-03, mean 5.88e-04

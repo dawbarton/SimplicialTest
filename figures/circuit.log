@@ -1,0 +1,7 @@
+PL codim1 (R = 43k): 5578 points, 5579 circuit evaluations, 1.9s; folds (V, mA): [[7.246, 1.075], [1.307, 2.475]]
+PC reference: 1251 points, 2 turning points, folds (V, mA): [[7.246, 1.077], [1.308, 2.48]]
+PL with 2 uA measurement noise: 7936 points, 7232 evaluations; folds: [[7.272, 1.162], [1.298, 2.432]]
+PL curve distance to PC curve in the (V, mA) plane: max 2.5e-02, median 4.2e-03 (PC points spaced up to 6.2e-02)
+hysteresis appears for R > 3137 Ohm (alpha > 0.304 with the assumed R(alpha) = 1k * 43^alpha); the paper says about 5 kOhm and alpha > 0.2
+PL codim2: 99619 simplices, 26652 circuit evaluations, 33s; polygon sizes [0, 0, 0, 54858, 41178, 3583], degenerate 0, components 1, Euler characteristic 1
+  boundary loop of 2035 vertices: Vdrv in [-0.00, 8.02], alpha in [-0.010, 1.040], |V1 - V2| >= 1.9e-04

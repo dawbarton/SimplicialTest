@@ -1,0 +1,3 @@
+grain 0.22: 19268 simplices, F evaluations 6522, polygons 19268 (degenerate 0), boundary edges 0, components 1, Euler characteristic -20 (orientable genus 11)
+grain 0.1: 94248 simplices, F evaluations 32164, polygons 94248 (degenerate 0), boundary edges 0, components 1, Euler characteristic -48 (orientable genus 25)
+grain 0.05: 378708 simplices, F evaluations 129751, polygons 378708 (degenerate 0), boundary edges 0, components 1, Euler characteristic -104 (orientable genus 53)

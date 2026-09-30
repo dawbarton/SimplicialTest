@@ -1,0 +1,4 @@
+|F(v0)| = 1.0864113112251227e-06
+points 9010, simplices 9009, F evaluations 9011, arclength 25.003, z from 1.123 to -16.274
+distance to exact helix: max 4.98e-05, median 2.04e-05 (grain 0.01, grain^2 = 1e-4)
+user-function interpolation error: max 6.14e-03
